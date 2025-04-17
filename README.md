@@ -1,6 +1,6 @@
-# fashion-blog
+# blog-preview-card-main
 
-Hello everyone. Thanks to the course I took on Udemig, I added a new one to my projects. Here is a "Fashion Blog Project" created with react.
+Hello everyone. Thanks to the course I took on Udemig, I added a new one to my projects. Here is a " blog-preview-card-main" created with html and css.
 
 # Usage Tecnologies
 
